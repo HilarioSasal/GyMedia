@@ -7,30 +7,30 @@ Preproyecto de una Aplicación de Gimnasio con React y React Native
     
 -   Página de descarga de la aplicación (web)
 -   Inicio de sesión de usuario y panel de administración (web)
--   Página de inicio (móvil)
--   Página de musculación (móvil)
--   Página de dietas (móvil)
--   Foro de discusión (móvil) (opcional/próximamente)
--   Contador de macros (móvil)
--   Calculadora de un PR (móvil)
--   Blog de noticias (móvil)
--   Tipos de ejercicios (móvil)
--   Reloj de descansos (móvil)
+-   Página de inicio (web/móvil)
+-   Página de musculación (web/móvil)
+-   Página de dietas (web/móvil)
+-   Foro de discusión (web/móvil) (opcional/próximamente)
+-   Contador de macros (web/móvil)
+-   Calculadora de un PR (web/móvil)
+-   Blog de noticias (web/móvil)
+-   Tipos de ejercicios (web/móvil)
+-   Reloj de descansos (web/móvil)
 
 3.  Requisitos técnicos:
 
 -   React para la versión web
--   React Native para la versión móvil
--   Base de datos NoSQL (MongoDB, Firebase, etc.)
--   Servicios de autenticación (Auth0, Firebase Auth, etc.)
+-   React Native para la versión móvil (ocpinal)
+-   Base de datos NoSQL (MongoDB)
+-   Servicios de autenticación (MongoDB)
 -   Integración con APIs externas (por ejemplo, para la calculadora de PR)
 
-4.  Alcance: La aplicación estará disponible para dispositivos iOS y Android y será accesible a través de un navegador web. La versión web y móvil tendrán una experiencia de usuario coherente y una funcionalidad similar.
+4.  Alcance: La aplicación estará disponible para dispositivos iOS y Android (opcional) y será accesible a través de un navegador web. La versión web y móvil tendrán una experiencia de usuario coherente y una funcionalidad similar.
     
 5.  Cronograma:
     
 -   Planificación: 2 semanas
 -   Desarrollo de la página de descarga y panel de administración (web): 4 semanas
--   Desarrollo de la versión móvil: 8 semanas
+-   Desarrollo de la versión móvil: 8 semanas (opcional)
 -   Pruebas y depuración: 2 semanas
 -   Lanzamiento: 1 semana
