@@ -1,7 +1,7 @@
 
-Preproyecto de una Aplicación de Gimnasio con React y React Native
+Preproyecto de una Aplicación de Gimnasio con React y React Native (opcional)
 
-1.  Introducción: El propósito de este proyecto es desarrollar una aplicación móvil y web que permita a los usuarios registrarse en una aplicación de gimnasio, seguir sus progresos y acceder a recursos en línea para mejorar su entrenamiento. La aplicación será construida utilizando React para la versión web y React Native para la versión móvil.
+1.  Introducción: El propósito de este proyecto es desarrollar una aplicación móvil (opcional) y web que permita a los usuarios registrarse en una aplicación de gimnasio, seguir sus progresos y acceder a recursos en línea para mejorar su entrenamiento. La aplicación será construida utilizando React para la versión web y React Native para la versión móvil (opcional).
     
 2.  Requisitos funcionales:
     
