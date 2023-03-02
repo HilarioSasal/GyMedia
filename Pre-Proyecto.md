@@ -20,7 +20,7 @@ Preproyecto de una Aplicación de Gimnasio con React y React Native (opcional)
 3.  Requisitos técnicos:
 
 -   React para la versión web
--   React Native para la versión móvil (ocpinal)
+-   React Native para la versión móvil (opcinal)
 -   Base de datos NoSQL (MongoDB)
 -   Servicios de autenticación (MongoDB)
 -   Integración con APIs externas (por ejemplo, para la calculadora de PR)
